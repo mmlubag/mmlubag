@@ -233,6 +233,15 @@
 
 
 <text
+  x="984"
+  y="22"
+  class="label"
+>
+  Sep
+</text>
+
+
+<text
   x="8"
   y="56"
   class="label"
@@ -7351,6 +7360,25 @@
 
 <title>
   2026-08-31: 0
+  contributions
+</title>
+
+</rect>
+
+
+<rect
+  x="984"
+  y="64"
+  width="14"
+  height="14"
+  rx="3"
+  fill="#21262D"
+  stroke="#30363D"
+  stroke-width=".65"
+>
+
+<title>
+  2026-09-01: 0
   contributions
 </title>
 
